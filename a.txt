@@ -1,4 +1,14 @@
 hello Myosik! 
+<<<<<<< HEAD
 
 I want to try to commit this again! 
 git is fun to learn! :D :D :D
+=======
+내가 이거 고쳐볼게!
+hello hanstar!ㅎ
+
+
+
+
+아아아ㅏ아ㅏ아ㅏㅏㅏㅏㅏㅏ이거추가ㅏㅏㅏㅏ
+>>>>>>> 1c4fe3e027ac186328f65510edf90434ad3abce7
