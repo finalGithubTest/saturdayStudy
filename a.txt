@@ -1,1 +1,4 @@
 hello Myosik! 
+
+I want to try to commit this again! 
+git is fun to learn! :D :D :D
